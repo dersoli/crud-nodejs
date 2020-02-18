@@ -1,7 +1,7 @@
 {
-  "name": "projeto-react",
+  "name": "projeto-crud-nodejs",
   "version": "1.0.0",
-  "description": "primeiro-projeto-react",
+  "description": "primeiro-crud-nodejs",
   "main": "index.js",
   "scripts": {
     "test": "olá React",
@@ -12,7 +12,7 @@
     "url": "https://github.com/dersoli"
   },
   "keywords": [
-    "primeiro-projeto-react"
+    "primeiro-crud-nodejs"
   ],
   "author": "Anderson Xavier",
   "license": "ISC",
@@ -23,6 +23,7 @@
     "mongodb": "^3.5.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "eslint": ">=4.18.2"
   }
 }
