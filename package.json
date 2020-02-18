@@ -1,0 +1,28 @@
+{
+  "name": "projeto-react",
+  "version": "1.0.0",
+  "description": "primeiro-projeto-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "olá React",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dersoli"
+  },
+  "keywords": [
+    "primeiro-projeto-react"
+  ],
+  "author": "Anderson Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
